@@ -7,16 +7,12 @@ We will be covering Python in this workshop. Python is one of many programming l
 It is a language that has relatively simple syntax, and great support/libraries.
 
 ## Lecturers
-Michael Beukman and Simon Rosen, MSc students in Computer Science.
+Simon Rosen & Abdel Njupoun.
 
 ## General Flow
 The workshop will be over 3 days, and the schedule will be as follows:
-- 11:00 - 11:50 Lecture
-- 11:50 - 12:00 Break
-- 12:00 - 12:50 Lecture
-- 12:50 - 13:20 Break
-- 13:20 - 15:00 Lab / Q & A
-- 15:00 - 16:30 Extra Time for additional questions/assorted help
+
+**TBC**
 
 ## Notes
 Please ask questions at any point -- the goal of this workshop is to get everyone to properly understand Python, so if you do not understand something, please make us aware of that.
