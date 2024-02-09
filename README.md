@@ -9,6 +9,10 @@ It is a language that has relatively simple syntax, and great support/libraries.
 ## Lecturers
 Simon Rosen & Abdel Njupoun.
 
+### Contact
+For the workshop attendees, if you have any questions with regard to the workshop you can contact Simon Rosen at: 1391995@students.wits.ac.za.
+- Please note that due to the volume of emails, emails from non attendees of the workshop are unlikely to be responded to.
+
 ## General Flow
 The workshop will be over 3 days, and the schedule will be as follows:
 
